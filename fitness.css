@@ -1,0 +1,39 @@
+html, body {
+	width: 800px;
+	background: #EEE;
+	}
+	#header .fun{
+		width: 1199px;
+	}
+	
+	#header .for{
+		width: 400px;
+		height: 300px;
+		position: relative;
+		left: 100px;
+		top: -800px;
+	}
+	#header .fast{
+		width: 400px;
+		height: 300px;
+		position: relative;
+		left: 600px;
+		top: -1000px;
+	}
+	#body{
+		position: relative;
+		top: -600;
+		float: left;
+	}
+	#body .two{
+		font-size: 100px;
+		font-style: comic;
+		align: center;
+	}
+	
+.box{
+	font-size: 100px;
+  color:black;
+  background-color:blue; 
+}
+
