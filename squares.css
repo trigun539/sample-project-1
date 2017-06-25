@@ -1,0 +1,282 @@
+html, body {
+	width: 1000px;
+	background: #EEE;
+	margin: 0px;
+	padding: 0px;
+	color: black;
+	
+}
+.top{
+	width: 800px;
+	height: 800px;
+	background-color: blue;
+	margin: 10px;
+}
+
+.one{
+	width: 180px;
+	height: 180px;
+	background-color: black;
+	margin: 10px;
+
+
+}
+.two{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	
+}
+.three{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+
+}
+.four{
+	width: 180px;
+	height: 175px;
+	background-color: red;
+	margin: 10px;
+}
+.middle{
+	width: 800px;
+	height: 800px;
+	background-color: blue;
+	margin: 10px;
+}
+
+.oneq{
+	width: 180px;
+	height: 180px;
+	background-color: black;
+	margin: 10px;
+	float: right;
+
+}
+.twow{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+}
+.threee{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+}
+.fourr{
+	width: 180px;
+	height: 175px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+}
+.bottom{
+	width: 800px;
+	height: 800px;
+	background-color: blue;
+	margin: 10px;
+}
+
+.onea{
+	width: 180px;
+	height: 180px;
+	background-color: black;
+	margin: 10px;
+	float: right;
+
+}
+.twos{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+	clear: both;
+}
+.threed{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+	clear: both;
+}
+.fourf{
+	width: 180px;
+	height: 175px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+	clear: both;
+}
+
+.lower{
+	width: 800px;
+	height: 800px;
+	background-color: blue;
+	margin: 10px;
+}
+
+.onep{
+	width: 180px;
+	height: 180px;
+	background-color: black;
+	margin: 10px;
+	position: relative;
+	bottom: -600px;
+
+}
+.twoo{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: -400px;
+	float: right;
+}
+.threei{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: -400px;
+	float: right;
+	
+}
+.fouru{
+	width: 180px;
+	height: 175px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: -400px;
+	float: right;
+}
+
+
+
+.hell{
+	width: 800px;
+	height: 800px;
+	background-color: blue;
+	margin: 10px;
+}
+
+.oneqp{
+	width: 180px;
+	height: 180px;
+	background-color: black;
+	margin: 10px;
+
+}
+.twowo{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+	position: relative;
+	top: -200px;
+}
+.threeei{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: -400px;
+	
+}
+.fourru{
+	width: 180px;
+	height: 175px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: -210px;
+	right: -200px;
+	float: right;
+
+}
+
+
+
+.heaven{
+	width: 800px;
+	height: 800px;
+	background-color: blue;
+	margin: 10px;
+}
+
+.oneal{
+	width: 180px;
+	height: 180px;
+	background-color: black;
+	margin: 10px;
+
+}
+.twosk{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	float: right;
+	position: relative;
+	top: -200px;
+}
+.threedj{
+	width: 180px;
+	height: 180px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: -400px;
+	
+}
+.fourfh{
+	width: 180px;
+	height: 175px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: -210px;
+	right: -200px;
+	float: right;
+
+}
+
+.fifth{
+	width: 180px;
+	height: 175px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+	bottom: 100px;
+	right: -100px;
+
+	float: right;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
